@@ -2,13 +2,13 @@
 
 ### **(BigQuery + Looker Studio | Texas HB 2067 Compliance)**
 
-[](https://www.google.com/search?q=%23i-project-overview-operation-clean-slate)
-[](https://www.google.com/search?q=%23i-project-overview-operation-clean-slate)
-[](https://www.google.com/search?q=%23iii-technical-stack-summary)
-[](https://www.google.com/search?q=%23)
-[](https://www.google.com/search?q=%23iv-data-profiling--metrics-summary)
-[](https://www.google.com/search?q=%23iv-data-profiling--metrics-summary)
-[](https://www.google.com/search?q=%23v-detailed-looker-studio-dashboard-summary-md)
+![](https://www.google.com/search?q=%23i-project-overview-operation-clean-slate)
+![](https://www.google.com/search?q=%23i-project-overview-operation-clean-slate)
+![](https://www.google.com/search?q=%23iii-technical-stack-summary)
+![](https://www.google.com/search?q=%23)
+![](https://www.google.com/search?q=%23iv-data-profiling--metrics-summary)
+![](https://www.google.com/search?q=%23iv-data-profiling--metrics-summary)
+![](https://www.google.com/search?q=%23v-detailed-looker-studio-dashboard-summary-md)
 
 -----
 
